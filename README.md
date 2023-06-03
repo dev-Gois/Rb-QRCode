@@ -2,10 +2,10 @@
 
 This application aims to generate a QR Code from a link, after you insert the link and the file name a.png file will be generated in the same folder
 
-# 📍 Technologies
+## 📍 Technologies
 - [Ruby](https://www.ruby-lang.org/pt/)
 
-# 🚀 Running
+## 🚀 Running
 
 To use this application you need ruby installed in your device, if you have, do this:
 
@@ -26,4 +26,16 @@ $ cd Rb_QRCode
 ```bash
 $ ruby RbQR.rb
 ```
-# 💻 Demo
+## 💻 Demo
+
+1- Running the application
+
+![](./Rb_QRCode.gif)
+
+2- And a file gonna be created in the same path
+
+![](./file.png)
+
+Example (If u scan this QR Code u gonna be redirected to google):
+
+![](./google.png)
